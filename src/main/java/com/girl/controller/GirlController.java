@@ -15,9 +15,6 @@ import org.springframework.web.bind.annotation.*;
 import javax.validation.Valid;
 import java.util.List;
 
-/**
- * Created by John on 2017/6/4.
- */
 @RestController
 public class GirlController {
 
